@@ -1,0 +1,14 @@
+body {
+  background-color: #000000ff;
+  min-height: 100vh;
+  
+  display: flex;
+	justify-content: center;
+  align-items: center;
+  perspective: 800px;
+}
+
+.card {
+  width: 355px;
+  height: 455px;
+}

@@ -1,7 +1,9 @@
 body {
   background-color: #000000ff;
   min-height: 100vh;
-  text-decoration-color: aliceblue;
+  max-height: 100vh;
+  min-width: 100vh;
+  max-width: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;

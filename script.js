@@ -20,7 +20,7 @@ shape.rotation = Math.PI * 0.25
 // this animates our instance of Two.js ('two') by listening for an event and then executing a function when the event occurs
 // 'shape.rotation +=' is the same as 'shape.rotation + shape.rotation ='  
 two.bind('update', function () {
-  shape.rotation += 0.5
+  shape.rotation += 1
 })
 
 two.play()

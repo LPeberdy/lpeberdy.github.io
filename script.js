@@ -13,7 +13,7 @@ two.appendTo(container)
 
 // this adds a shape to our instance of Two.js (which we've called 'two'), gives it dimensions, applies a colour , removes the stroke and rotates it
 const shape = two.makeRectangle(250, 250, 100, 100)
-shape.fill = '#f9bc31'
+shape.fill = '#8851ee'
 shape.noStroke()
 shape.rotation = Math.PI * 0.25
 
